@@ -4,7 +4,7 @@ import java.util.Scanner;
  *
  * @author HP 430 G5
  */
-public class Lab12 {
+public class Lab12#1 {
     /**
      * @param args the command line arguments
      */
